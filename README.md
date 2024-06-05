@@ -10,5 +10,6 @@ Project ini merupakan kumpulan tugas Immersive Program Backend Alta
 | 6      | hackkerrank1     | TaskDay3.2  | 3         | 2            | Submission hackerrrank1      |
 | 7      | pointer          | -           | 3         | 3            | Part 1 Pointer Problem 1 - 4 |
 | 8      | problem-solving  | -           | 3         | 5            | Part 1 Problem 1 - 4         |
+| 9      | ERD              | -           | 4         | 2            | ERD E-library                |
 
 
