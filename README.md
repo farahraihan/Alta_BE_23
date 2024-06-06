@@ -11,5 +11,6 @@ Project ini merupakan kumpulan tugas Immersive Program Backend Alta
 | 7      | pointer          | -           | 3         | 3            | Part 1 Pointer Problem 1 - 4 |
 | 8      | problem-solving  | -           | 3         | 5            | Part 1 Problem 1 - 4         |
 | 9      | ERD              | -           | 4         | 2            | ERD E-library                |
+| 10     | sql1             | -           | 4         | 3            | Create database E-library    |
 
 
