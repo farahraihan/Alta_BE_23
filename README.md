@@ -13,5 +13,6 @@ Project ini merupakan kumpulan tugas Immersive Program Backend Alta
 | 9      | ERD              | -           | 4         | 2            | ERD E-library                |
 | 10     | sql1             | -           | 4         | 3            | Create database E-library    |
 | 11     | query            | -           | 4         | 4            | Query database E-library     |
+| 12     | sql-hackkerrank  | -           | 4         | 5            | SQL hackkerrank              |
 
 
