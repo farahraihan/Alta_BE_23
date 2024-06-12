@@ -14,5 +14,6 @@ Project ini merupakan kumpulan tugas Immersive Program Backend Alta
 | 10     | sql1             | -           | 4         | 3            | Create database E-library    |
 | 11     | query            | -           | 4         | 4            | Query database E-library     |
 | 12     | sql-hackkerrank  | -           | 4         | 5            | SQL hackkerrank              |
+| 13     | try              | -           | 5         | 2            | Aplikasi menu login          |
 
 
