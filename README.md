@@ -15,5 +15,7 @@ Project ini merupakan kumpulan tugas Immersive Program Backend Alta
 | 11     | query            | -           | 4         | 4            | Query database E-library     |
 | 12     | sql-hackkerrank  | -           | 4         | 5            | SQL hackkerrank              |
 | 13     | try              | -           | 5         | 2            | Aplikasi menu login          |
+| 14     | restAPI          | -           | 7         | 4            | RestAPI todo management      |
+| 15     | jwt              | -           | 7         | 5            | RestAPI with generate token  |
 
 
