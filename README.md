@@ -18,5 +18,6 @@ Project ini merupakan kumpulan tugas Immersive Program Backend Alta
 | 14     | restAPI          | -           | 7         | 4            | RestAPI todo management      |
 | 15     | jwt              | -           | 7         | 5            | RestAPI with generate token  |
 | 16     | clean            | -           | 8         | 1            | Clean architecture 1         |
+| 16     | deployment       | -           | 9         | 3            | Clean architecture 1         |
 
 
